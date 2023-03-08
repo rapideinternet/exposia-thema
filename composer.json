@@ -1,5 +1,5 @@
 {
-  "name": "rapidesoftware/tailwind-theme-theme",
+  "name": "rapidesoftware/tailwind-october-theme",
   "type": "october-theme",
   "description": "Initialises Tailwind into your OctoberCMS project.",
   "require": {

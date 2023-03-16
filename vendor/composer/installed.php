@@ -3,7 +3,7 @@
         'name' => 'rapidesoftware/tailwind-theme-theme',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8598c8b6806dde0e0930160d865f67419a8c81a6',
+        'reference' => '984b542c2ecf1757fcc7bdcf13bdc94cb0ea240e',
         'type' => 'october-theme',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'rapidesoftware/tailwind-theme-theme' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8598c8b6806dde0e0930160d865f67419a8c81a6',
+            'reference' => '984b542c2ecf1757fcc7bdcf13bdc94cb0ea240e',
             'type' => 'october-theme',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

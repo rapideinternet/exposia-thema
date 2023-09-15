@@ -3,7 +3,7 @@
   "type": "october-theme",
   "description": "Initialises Tailwind into your OctoberCMS project.",
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "~2.0"
   },
   "config": {
     "allow-plugins": {
